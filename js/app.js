@@ -1,7 +1,7 @@
 ////////////////////////////////
 // Global Variables Here
 
-
+console.log('Why?')
 
 ////////////////////////////////
 // Functions For Game Logic Here
